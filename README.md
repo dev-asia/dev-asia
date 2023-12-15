@@ -9,7 +9,7 @@
 
 ## Skills
 
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, JavaScript, Bootstrap
 - Backend Learning: Node.js, Python
 - Databases: MongoDB, MySQL
 
