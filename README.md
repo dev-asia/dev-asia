@@ -14,4 +14,6 @@
 - Databases: MongoDB, MySQL
 
 Let's build the web together! 😊
+:rocket: This project is amazing!
+
 
