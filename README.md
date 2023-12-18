@@ -14,7 +14,7 @@
 - Databases: MongoDB, MySQL
 
 Let's build the web together! 😊
-         -And
--"Contributions are always welcome.😊"
+And
+"Contributions are always welcome.😊"
 
 
