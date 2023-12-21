@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dev-asia
+- 👋 Hi, I’m asia.
 - 👀 I'm a frontend web developer with a background in ICS and computer software.
 - 🌱 Currently, I'm pursuing a BS in Computer Science and exploring Backend Development.
 .
@@ -10,8 +10,8 @@
 ## Skills
 
 - Frontend: HTML, CSS, JavaScript, Bootstrap
-- Backend Learning: Node.js, Python
-- Databases: MongoDB, MySQL
+- Backend : Node.js, express
+- Databases Learning: MySQL, MongoDB
 
 Let's build the web together! 😊
 ###
