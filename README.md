@@ -25,9 +25,12 @@ I'm a Full Stack web developer with a background in ICS and computer software. C
 ## Additional Skills
 - Linux
 - Git
+  
+❤️ Love the art of coding and always eager to learn new technologies.
 
 Let's build the web together! 😊
 
 Contributions are always welcome. 😊
+
 
 
